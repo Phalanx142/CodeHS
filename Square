@@ -1,0 +1,8 @@
+function start(){
+	square(4);
+	square(3);
+}
+
+function square(x) {
+    print(x*x);
+}
